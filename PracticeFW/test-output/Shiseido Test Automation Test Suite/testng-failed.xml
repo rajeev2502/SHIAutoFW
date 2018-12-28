@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Shiseido Test Automation Test Suite]">
+  <test thread-count="5" name="SHI Sanity Test Cases(failed)">
+    <classes>
+      <class name="com.WP.TestCases.SHISharedBeautyPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="ValidateSharedBeautyPageTitle"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.WP.TestCases.SHISharedBeautyPageTest -->
+      <class name="com.WP.TestCases.SHIHomePageTest">
+        <methods>
+          <include name="verifyHeaderItems"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.WP.TestCases.SHIHomePageTest -->
+    </classes>
+  </test> <!-- SHI Sanity Test Cases(failed) -->
+</suite> <!-- Failed suite [Shiseido Test Automation Test Suite] -->

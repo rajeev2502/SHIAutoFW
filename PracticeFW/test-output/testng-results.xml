@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="0" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79247" started-at="2018-12-28T14:25:17Z" finished-at="2018-12-28T14:26:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79247" started-at="2018-12-28T14:25:17Z" finished-at="2018-12-28T14:26:36Z">
+      <class name="com.WP.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="13980" started-at="2018-12-28T14:25:17Z" finished-at="2018-12-28T14:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.WP.TestCases.HomePageTest@5f341870]" name="verifyHomePageTitle" duration-ms="22" started-at="2018-12-28T14:25:31Z" finished-at="2018-12-28T14:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="806" started-at="2018-12-28T14:25:31Z" finished-at="2018-12-28T14:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="9652" started-at="2018-12-28T14:25:32Z" finished-at="2018-12-28T14:25:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyHomePageLogo()[pri:2, instance:com.WP.TestCases.HomePageTest@5f341870]" name="verifyHomePageLogo" duration-ms="32" started-at="2018-12-28T14:25:41Z" finished-at="2018-12-28T14:25:41Z">
+          <exception class="java.lang.AbstractMethodError">
+            <message>
+              <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AbstractMethodError: org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:42)
+at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+at com.WP.Pages.HomePage.verifySHILogo(HomePage.java:79)
+at com.WP.TestCases.HomePageTest.verifyHomePageLogo(HomePageTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AbstractMethodError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="947" started-at="2018-12-28T14:25:41Z" finished-at="2018-12-28T14:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="11851" started-at="2018-12-28T14:25:42Z" finished-at="2018-12-28T14:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyHomePageSearch()[pri:3, instance:com.WP.TestCases.HomePageTest@5f341870]" name="verifyHomePageSearch" duration-ms="22" started-at="2018-12-28T14:25:54Z" finished-at="2018-12-28T14:25:54Z">
+          <exception class="java.lang.AbstractMethodError">
+            <message>
+              <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AbstractMethodError: org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:42)
+at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+at com.WP.Pages.HomePage.verifySearch(HomePage.java:110)
+at com.WP.TestCases.HomePageTest.verifyHomePageSearch(HomePageTest.java:44)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AbstractMethodError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="833" started-at="2018-12-28T14:25:54Z" finished-at="2018-12-28T14:25:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="11515" started-at="2018-12-28T14:25:55Z" finished-at="2018-12-28T14:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyHomePageHeader()[pri:4, instance:com.WP.TestCases.HomePageTest@5f341870]" name="verifyHomePageHeader" duration-ms="25" started-at="2018-12-28T14:26:06Z" finished-at="2018-12-28T14:26:06Z">
+          <exception class="java.lang.AbstractMethodError">
+            <message>
+              <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AbstractMethodError: org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:42)
+at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+at com.WP.Pages.HomePage.verifyHeaderUtils(HomePage.java:93)
+at com.WP.TestCases.HomePageTest.verifyHomePageHeader(HomePageTest.java:49)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AbstractMethodError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageHeader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="809" started-at="2018-12-28T14:26:06Z" finished-at="2018-12-28T14:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="11626" started-at="2018-12-28T14:26:07Z" finished-at="2018-12-28T14:26:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="verifyHomePageFooter()[pri:5, instance:com.WP.TestCases.HomePageTest@5f341870]" name="verifyHomePageFooter" duration-ms="73" started-at="2018-12-28T14:26:19Z" finished-at="2018-12-28T14:26:19Z">
+          <exception class="java.lang.AbstractMethodError">
+            <message>
+              <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AbstractMethodError: org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.isDisplayed()Z
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:42)
+at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+at com.WP.Pages.HomePage.verifyFooterElements(HomePage.java:102)
+at com.WP.TestCases.HomePageTest.verifyHomePageFooter(HomePageTest.java:57)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AbstractMethodError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageFooter -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="835" started-at="2018-12-28T14:26:19Z" finished-at="2018-12-28T14:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="setup" is-config="true" duration-ms="10865" started-at="2018-12-28T14:26:20Z" finished-at="2018-12-28T14:26:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SHISignIn()[pri:6, instance:com.WP.TestCases.HomePageTest@5f341870]" name="SHISignIn" duration-ms="4487" started-at="2018-12-28T14:26:31Z" finished-at="2018-12-28T14:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SHISignIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.WP.TestCases.HomePageTest@5f341870]" name="tearDown" is-config="true" duration-ms="812" started-at="2018-12-28T14:26:35Z" finished-at="2018-12-28T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.WP.TestCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

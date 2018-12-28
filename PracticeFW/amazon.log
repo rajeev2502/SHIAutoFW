@@ -1,0 +1,543 @@
+2018-06-27 18:03:44 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-27 18:03:50 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-27 18:03:51 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-27 18:03:52 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-27 18:03:56 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-27 18:04:01 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-27 18:04:08 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-27 18:04:09 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-27 18:04:10 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-27 18:04:14 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-27 18:04:21 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-27 18:04:22 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-27 18:04:23 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-28 18:28:06 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-28 18:28:14 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-28 18:28:15 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-28 18:28:15 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:28:16 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-28 18:28:16 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:28:21 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-28 18:28:25 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-28 18:28:36 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-28 18:28:37 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-28 18:28:37 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:28:38 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-28 18:33:06 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-28 18:33:14 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-28 18:33:15 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-28 18:33:15 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:33:16 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-28 18:33:16 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:33:19 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-28 18:33:23 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-28 18:33:31 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-28 18:33:32 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-28 18:33:32 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-28 18:33:33 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 12:05:22 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 12:05:29 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 12:05:30 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 12:05:30 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-29 12:05:31 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 12:05:31 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-29 12:05:36 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 12:05:40 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 12:05:47 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 12:05:48 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 12:05:48 INFO  commonUtils:27 - Waitin for element to be clickable
+2018-06-29 12:05:49 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 13:21:53 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 13:22:04 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 13:22:05 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 13:22:05 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:22:06 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 13:22:06 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:22:10 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 13:22:14 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 13:22:23 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 13:22:24 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 13:22:24 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:22:25 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 13:33:53 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 13:34:00 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 13:34:01 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 13:34:01 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:34:02 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 13:34:02 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:34:04 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 13:34:09 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 13:34:18 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 13:34:19 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 13:34:19 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 13:34:21 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:09:23 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:09:51 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:10:28 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:10:31 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:10:33 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:10:40 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:10:44 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 15:15:31 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:15:44 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:15:49 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:15:50 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:15:52 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:21:25 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:21:33 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:21:34 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:21:34 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:21:35 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:21:35 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:21:36 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 15:21:38 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:21:46 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:21:47 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:21:47 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:21:48 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:22:17 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:22:24 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:22:25 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:22:25 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:22:26 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:22:26 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:22:28 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 15:22:32 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:22:42 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:22:43 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:22:43 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:22:44 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:34:57 INFO  VerifyAmazonLogin:51 - launching ChromeDriver...
+2018-06-29 15:35:09 INFO  VerifyAmazonLogin:59 - Navigating to login page.
+2018-06-29 15:35:10 INFO  VerifyAmazonLogin:65 - Validated Title.
+2018-06-29 15:35:10 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:35:12 INFO  VerifyAmazonLogin:67 - Entered Email ID & Continue.
+2018-06-29 15:35:12 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:35:13 INFO  VerifyAmazonLogin:69 - Entered password & Login.
+2018-06-29 15:42:55 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 15:43:03 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 15:43:04 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 15:43:04 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:43:05 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 15:43:05 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:43:09 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 15:43:09 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:43:09 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 15:43:09 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-06-29 15:43:14 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 15:43:22 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 15:43:23 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 15:43:24 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:43:25 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 15:56:31 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 15:56:41 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 15:56:42 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 15:56:42 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:56:43 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 15:56:43 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:56:46 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 15:56:46 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:56:46 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 15:56:47 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-06-29 15:56:51 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 15:57:02 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 15:57:03 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 15:57:03 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:57:04 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 15:58:31 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 15:58:40 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 15:58:41 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 15:58:41 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:58:42 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 15:58:43 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 15:58:46 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:17:34 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:17:55 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:17:56 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:17:56 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:18:01 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:18:01 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:18:09 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:24:22 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:24:32 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:24:34 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:24:34 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:24:35 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:24:35 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:24:40 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:26:57 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:27:05 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:27:06 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:27:06 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:27:08 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:27:08 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:27:11 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:28:41 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:28:51 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:28:52 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:28:53 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:28:54 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:28:54 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:28:58 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:35:56 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:36:14 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:36:15 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:36:15 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:36:16 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:36:16 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:36:20 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:40:25 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:40:40 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:40:41 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:40:41 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:40:42 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:40:42 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:40:49 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:42:08 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:42:34 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:42:35 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:42:35 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:42:37 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:42:37 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:42:46 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:42:46 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:42:46 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 16:42:47 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-06-29 16:42:51 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:43:08 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:43:09 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:43:09 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:43:13 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:52:28 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:52:37 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:52:39 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:52:39 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:52:40 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:52:40 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:52:42 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:52:43 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:52:43 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 16:52:43 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-06-29 16:52:45 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:52:57 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:52:58 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:52:58 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:52:59 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:56:41 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 16:56:54 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 16:56:55 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 16:56:56 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:56:57 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 16:56:57 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:57:01 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 16:57:01 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 16:57:01 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 17:00:07 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 17:00:27 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 17:00:28 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 17:00:28 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:00:30 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 17:00:30 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:00:36 INFO  VerifyAmazonLogin:72 - Entered password & Login.
+2018-06-29 17:00:36 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:00:36 INFO  VerifyAmazonLogin:75 - Login Successful.
+2018-06-29 17:00:37 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:00:39 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 17:00:50 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 17:00:51 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 17:00:51 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:00:52 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 17:00:53 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:00:55 INFO  VerifyAmazonLogin:54 - launching ChromeDriver...
+2018-06-29 17:01:08 INFO  VerifyAmazonLogin:62 - Navigating to login page.
+2018-06-29 17:01:09 INFO  VerifyAmazonLogin:68 - Validated Title.
+2018-06-29 17:01:09 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:01:10 INFO  VerifyAmazonLogin:70 - Entered Email ID & Continue.
+2018-06-29 17:01:10 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:15:33 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:15:40 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:15:41 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:15:41 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:15:42 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:15:42 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:15:46 INFO  VerifyAmazonLogin:73 - Entered password & Login.
+2018-06-29 17:15:46 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:15:46 INFO  VerifyAmazonLogin:76 - Login Successful.
+2018-06-29 17:15:47 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:15:49 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:15:58 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:15:59 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:15:59 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:16:00 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:16:00 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:16:02 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:16:12 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:16:13 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:16:13 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:16:14 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:16:15 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:27:09 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:27:19 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:27:20 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:27:20 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:27:21 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:27:21 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:27:23 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:27:35 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:27:36 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:27:36 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:27:37 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:27:37 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:27:38 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:27:40 INFO  VerifyAmazonLogin:55 - launching ChromeDriver...
+2018-06-29 17:27:48 INFO  VerifyAmazonLogin:63 - Navigating to login page.
+2018-06-29 17:27:49 INFO  VerifyAmazonLogin:69 - Validated Title.
+2018-06-29 17:27:49 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:27:50 INFO  VerifyAmazonLogin:71 - Entered Email ID & Continue.
+2018-06-29 17:27:50 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:27:51 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:40:38 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:40:46 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:40:47 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:40:47 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:40:48 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:40:49 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:40:51 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:40:59 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:41:00 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:41:00 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:41:01 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:41:01 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:41:01 INFO  VerifyAmazonLogin:75 - Invalid Email.
+2018-06-29 17:41:01 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:41:04 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:41:11 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:41:12 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:41:12 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:41:13 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:41:13 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:41:13 INFO  VerifyAmazonLogin:75 - Invalid Email.
+2018-06-29 17:41:13 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:48:57 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:49:06 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:49:07 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:49:07 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:49:08 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:49:08 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:49:10 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:49:17 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:49:18 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:49:18 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:49:19 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:49:19 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:49:19 INFO  VerifyAmazonLogin:77 - Invalid Email.
+2018-06-29 17:49:20 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:49:22 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:49:31 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:49:32 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:49:32 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:49:33 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:49:33 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:49:33 INFO  VerifyAmazonLogin:77 - Invalid Email.
+2018-06-29 17:49:33 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:57:59 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:58:10 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:58:11 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:58:11 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:58:13 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:58:13 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:58:15 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:58:22 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:58:23 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:58:23 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:58:24 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:58:24 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:58:24 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 17:58:25 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 17:58:26 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 17:58:34 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 17:58:35 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 17:58:35 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:58:36 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 17:58:36 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 17:58:36 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 17:58:36 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:03:58 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:04:06 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:04:07 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:04:07 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:04:09 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:04:09 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:04:11 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:04:20 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:04:21 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:04:21 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:04:23 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:04:23 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:04:23 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:04:23 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:04:25 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:04:37 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:04:38 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:04:38 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:04:40 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:04:40 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:04:40 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:04:40 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:12:39 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:12:46 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:12:47 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:12:47 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:12:48 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:16:35 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:16:43 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:16:44 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:16:44 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:16:46 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:19:00 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:19:07 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:19:08 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:19:08 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:19:10 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:20:40 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:20:42 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:20:51 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:20:52 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:20:52 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:20:53 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:20:57 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:21:00 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:21:02 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:21:11 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:21:12 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:21:12 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:21:13 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:21:14 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:21:17 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:25:31 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:25:40 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:25:41 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:25:41 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:25:42 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:26:39 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:26:47 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:26:48 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:26:48 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:26:49 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:29:48 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:29:56 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:29:57 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:29:57 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:29:58 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:30:24 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:30:37 INFO  VerifyAmazonLogin:86 - Entered password & Login.
+2018-06-29 18:35:04 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:35:31 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:35:32 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:35:32 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:35:33 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:35:33 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:35:39 INFO  VerifyAmazonLogin:86 - Entered password & Login.
+2018-06-29 18:35:39 INFO  VerifyAmazonLogin:97 - Login Successful.
+2018-06-29 18:35:39 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:35:41 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:35:57 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:35:58 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:35:58 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:35:59 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:35:59 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:36:00 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:36:02 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:36:20 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:36:21 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:36:21 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:36:23 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:36:23 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:36:24 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:43:58 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:44:12 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:44:13 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:44:13 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:44:14 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:44:14 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:44:17 INFO  VerifyAmazonLogin:87 - Entered password & Login.
+2018-06-29 18:44:17 INFO  VerifyAmazonLogin:99 - Login Successful.
+2018-06-29 18:44:17 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-06-29 18:44:18 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:44:20 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:44:30 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:44:31 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:44:32 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:44:33 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:44:33 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:44:33 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu1@gmail.comInvalid
+2018-06-29 18:44:33 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-06-29 18:44:35 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-06-29 18:44:43 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-06-29 18:44:44 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-06-29 18:44:44 INFO  commonUtils:27 - Waiting for element to be clickable
+2018-06-29 18:44:44 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-06-29 18:44:44 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-06-29 18:44:45 INFO  commonUtils:35 - Captured the screenshot for rajeev.bu2@gmail.comInvalid
+2018-06-29 18:44:45 INFO  commonUtils:35 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:50:29 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:50:37 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:50:38 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:50:39 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:50:41 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:50:47 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:50:48 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:50:49 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:50:51 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:50:57 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:50:58 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:50:59 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:51:37 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:51:45 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:51:46 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:51:47 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-02 11:51:50 INFO  VerifyAmazonLogin:87 - Entered password & Login.
+2018-07-02 11:51:50 INFO  VerifyAmazonLogin:99 - Login Successful.
+2018-07-02 11:51:50 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-07-02 11:51:51 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:51:53 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:52:00 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:52:01 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:52:02 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-02 11:52:02 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-07-02 11:52:02 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu1@gmail.comInvalid
+2018-07-02 11:52:03 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-02 11:52:05 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-02 11:52:11 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-02 11:52:12 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-02 11:52:13 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-02 11:52:13 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-07-02 11:52:14 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu2@gmail.comInvalid
+2018-07-02 11:52:14 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 11:18:04 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-04 11:18:14 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-04 11:18:15 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-04 11:18:16 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-04 11:18:20 INFO  VerifyAmazonLogin:87 - Entered password & Login.
+2018-07-04 11:18:20 INFO  VerifyAmazonLogin:99 - Login Successful.
+2018-07-04 11:18:21 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu@gmail.comSuccess
+2018-07-04 11:18:21 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 11:18:23 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-04 11:18:33 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-04 11:18:34 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-04 11:18:35 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-04 11:18:35 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-07-04 11:18:35 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu1@gmail.comInvalid
+2018-07-04 11:18:36 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 11:18:38 INFO  VerifyAmazonLogin:56 - launching ChromeDriver...
+2018-07-04 11:18:49 INFO  VerifyAmazonLogin:64 - Navigating to login page.
+2018-07-04 11:18:50 INFO  VerifyAmazonLogin:70 - Validated Title.
+2018-07-04 11:18:51 INFO  VerifyAmazonLogin:73 - Entered Email ID & Continue.
+2018-07-04 11:18:51 INFO  VerifyAmazonLogin:78 - Invalid Email.
+2018-07-04 11:18:51 INFO  commonUtils:36 - Captured the screenshot for rajeev.bu2@gmail.comInvalid
+2018-07-04 11:18:51 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 12:12:50 INFO  VerifyAmazonLogin:58 - launching ChromeDriver...
+2018-07-04 12:13:14 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 12:13:56 INFO  VerifyAmazonLogin:58 - launching ChromeDriver...
+2018-07-04 12:14:20 INFO  commonUtils:36 - Captured the screenshot for verifyValidLogin
+2018-07-04 12:14:22 INFO  VerifyAmazonLogin:58 - launching ChromeDriver...

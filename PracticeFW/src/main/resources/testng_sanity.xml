@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Shiseido Test Automation Suite">
+
+	<listeners>
+		<listener class-name="com.WP.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+	<test name="SHI Sanity Test Cases">
+		<classes>
+			<class name="com.WP.TestCases.SHIHomePageTest"></class>
+			<class name="com.WP.TestCases.HomePageTest"></class>
+			<!-- <class name="com.WP.TestCases.SHISharedBeautyPageTest"></class> -->
+		</classes>
+	</test>
+</suite>
